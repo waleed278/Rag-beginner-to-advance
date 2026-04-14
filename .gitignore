@@ -209,3 +209,5 @@ __marimo__/
 #Vector Stores
 .db
 db/
+db/chroma_db
+.db/chroma_db
